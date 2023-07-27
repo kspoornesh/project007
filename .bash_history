@@ -83,3 +83,9 @@ git log -- online
 git log --oneline
 git tag -a "v1.0" ab402c3 -m "releasev1.0"
 git log --oneline
+clear
+git push -u origin main
+ls -l
+git log --oneline
+git log --oneline tags
+git push -u origin main --tags
