@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1690439591,,"wq"
+|2,0,1690438701,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,49 +25,26 @@
 # Registers:
 
 # File marks:
-'0  2  26  ~/india.txt
-|4,48,2,26,1690439591,"~/india.txt"
-'1  1  10  ~/java.2
-|4,49,1,10,1690438701,"~/java.2"
+'0  1  10  ~/java.2
+|4,48,1,10,1690438701,"~/java.2"
+'1  1  21  ~/hello.java
+|4,49,1,21,1690375942,"~/hello.java"
 '2  1  21  ~/hello.java
-|4,50,1,21,1690375942,"~/hello.java"
-'3  1  21  ~/hello.java
-|4,51,1,21,1690375691,"~/hello.java"
+|4,50,1,21,1690375691,"~/hello.java"
 
 # Jumplist (newest first):
--'  2  26  ~/india.txt
-|4,39,2,26,1690439591,"~/india.txt"
--'  1  0  ~/india.txt
-|4,39,1,0,1690439559,"~/india.txt"
--'  1  10  ~/java.2
-|4,39,1,10,1690438701,"~/java.2"
 -'  1  10  ~/java.2
 |4,39,1,10,1690438701,"~/java.2"
 -'  1  21  ~/hello.java
 |4,39,1,21,1690375942,"~/hello.java"
 -'  1  21  ~/hello.java
 |4,39,1,21,1690375942,"~/hello.java"
--'  1  21  ~/hello.java
-|4,39,1,21,1690375942,"~/hello.java"
--'  1  21  ~/hello.java
-|4,39,1,21,1690375942,"~/hello.java"
--'  1  21  ~/hello.java
-|4,39,1,21,1690375691,"~/hello.java"
--'  1  21  ~/hello.java
-|4,39,1,21,1690375691,"~/hello.java"
 -'  1  21  ~/hello.java
 |4,39,1,21,1690375691,"~/hello.java"
 -'  1  21  ~/hello.java
 |4,39,1,21,1690375691,"~/hello.java"
 
 # History of marks within files (newest to oldest):
-
-> ~/india.txt
-	*	1690439588	0
-	"	2	26
-	^	2	27
-	.	2	26
-	+	2	26
 
 > ~/java.2
 	*	1690438695	0

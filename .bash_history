@@ -33,19 +33,3 @@ git show ff0c019016e5e5aabcdaec3a20db9262705b0cdf
 git show 825445a80727d34fffe3bef871f3f8b7957fb46c
 clear
 git show 825445a80727d34fffe3bef871f3f8b7957fb46c
-clear
-git status
-clear
-touch today.txt
-git status
-ls
-vi java.2
-cd java.2
-cat java.2
-git status
-rm git show 825445a80727d34fffe3bef871f3f8b7957fb46c
-clear
-git add .
-git commit -m "today"
-git log
-git show 725d85319165efd7e994e7765382a0c0f4fd8dcb 
